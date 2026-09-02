@@ -1,0 +1,54 @@
+1. Definitions
+    The use of the word 'Application' refers to The Zenith Macro - Bee Swarm Simulator
+    
+    The 'Author' refers to the main programmer and designer of this app, EliTheLegoGuy
+
+2. Grant of License
+    The Author grants you a non-exclusive, non-transferable license to install and use this
+        Application on any number of computers or devices owned and operated solely by you. You may
+        run multiple instances of the Application simultaneously on a single device.
+
+3. Restrictions on Use
+    This license is for individual use only. You shall not:
+        Share, rent, lease, lend, sell, or redistribute the Application to any third party.
+        Decompile, reverse engineer, disassemble, or attempt to derive the source code of the
+            Application.
+        Modify, adapt, or create derivative works based upon the Application or any part thereof.
+        Use any portion of the code for other software projects or purposes.
+
+4. Ownership
+    The Application is licensed, not sold. The Author retains all right, title, and interest in and
+        to the Application, including all intellectual property rights therein.
+
+5. Termination
+    This license is effective until terminated. Your rights under this license will terminate
+        automatically without notice if you fail to comply with any term(s) of this EULA. Upon
+        termination, you must cease all use of the Application and destroy all copies.
+
+6. Disclaimer of Warranty
+    The Application is provided "AS IS," without warranty of any kind. It is not a malicious
+        program, but it does require certain OS-level permissions in order to function as intended.
+        Use of the Application is at your own risk.
+    
+    The Author is not responsible for any actions taken against your game account (including bans,
+        resets, or suspensions) by third-party game developers or platforms resulting from the use
+        of this Application.
+    
+    In no event shall the Author be liable for any special, incidental, indirect, or consequential
+        damages whatsoever (including, but not limited to, loss of data or loss of game progress)
+        arising out of the use of the Application, although this macro is designed to be use safe.
+
+7. Data & Privacy
+    The Application may store configuration settings and usage logs locally on your device in JSON
+        format. This data remains on your device and is used solely for the Application's
+        functionality and the user's personal record-keeping.
+
+8. System Permissions
+    Because the Application interacts with system-level APIs to manage window focus and simulate
+        input, it may be flagged by security software as a 'heuristic threat.' The Author warrants
+        the Application is not malicious, but the User acknowledges that granting these permissions
+        is necessary for the macro to function.
+
+9. Third-Party Attribution
+    This Application is built using the Python programming language and various standard libraries.
+        Portions of the software are subject to the Python Software Foundation License.
